@@ -1,0 +1,29 @@
+﻿.calc_wrapper {
+    font-size: 18px;
+    font-family: 'Microsoft Sans Serif';
+    border: 2px solid black;
+    width: 324.5px;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+.calc_display {
+    height: 70px;
+    width: 500px;
+    margin: 2px;
+    word-wrap: break-word;
+    padding: 0;
+    min-width: 99%;
+    font-size: 24px;
+}
+
+.calc_button{
+    height: 70px;
+    width: 70px;
+    margin: 3px 2px;
+    padding: 0;
+}
+
+.calc_clear_button{
+    width: 148.5px
+}
